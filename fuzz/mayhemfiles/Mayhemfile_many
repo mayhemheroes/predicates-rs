@@ -1,0 +1,7 @@
+project: predicates-rs
+target: many
+duration: 90
+
+cmds:
+    - cmd: /many
+
