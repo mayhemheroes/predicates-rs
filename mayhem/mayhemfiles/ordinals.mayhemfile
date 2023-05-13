@@ -1,0 +1,7 @@
+project: predicates-rs
+target: ordinals
+duration: 90
+
+cmds:
+    - cmd: /ordinals
+
